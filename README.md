@@ -1,16 +1,19 @@
-### Hi there 👋
+<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<h1 align="center">Hi 👋, I'm Thanh Van 👧 (タン　ヴァン)</h1>
 
-<!--
-**Thanhvan06/Thanhvan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ✍ I'm a 2nd year student of Vietnam - Korea University of Information and Communication Technology (2021-2026).
+<br>
+  🌱 I’m currently learning at JIT (Japanese IT) at VKU (K21).
+ <br>
+  😄 I’m currently researching about docker.
+ <br>
+  💬 Ask me about programing.
+ <br>
+
+
+
+
+
+
